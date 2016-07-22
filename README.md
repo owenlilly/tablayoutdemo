@@ -36,6 +36,7 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
 *__Setup ViewPager and TabLayout__*
 
 ```Java
+// in onCreate
 viewPager.setAdapter(new ViewPagerAdapter(getSupportFragmentManager(), getTabs()));
 tabLayout.setupWithViewPager(viewPager);
 ```
