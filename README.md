@@ -1,6 +1,6 @@
 # TabLayout Demo
 
-A simple example of using TabLayout with ViewPager in Android.
+A simple example of using TabLayout with ViewPager in Android using a unique design pattern.
 
 # Screenshot
 
